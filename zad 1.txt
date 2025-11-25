@@ -1,0 +1,5 @@
+zad 1
+1. przyjmuje tablice i dodaje każdy jej element do total a potem zwraca sume wszystkich elementow 
+2. blad to <= zamiast <
+3. na linii int total=0 aby zobaczyć jakie dane zostały przekazane i na return total aby zobaczyć wynik końcowy
+4.na total i numbers
